@@ -1,6 +1,6 @@
 - Hi, I’m @irfanda619
 - I’m interested in Many Things 
-- I’m currently learning Web Programming & App Developer Using Animate CC
+- I’m currently learning Web Programming & App Developer using Animate CC
 
 
 <!---
