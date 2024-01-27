@@ -3,7 +3,7 @@
 I'm passionate about Many Things and currently diving into the world of Web Programming & App Development using Animate CC.
 
 ## Skills
-- HTML, CSS, JavaScript, Action Script, Design Graphics
+HTML, CSS, JavaScript, Action Script, Design Graphics
 
 ## Projects
 
