@@ -6,7 +6,7 @@
 <b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b> 
 <br>
 ![Project 1](https://i.postimg.cc/zGvjQfvV/personal-website.png) 
-<span style="border-bottom: 1px solid black;">&nbsp;&nbsp;&nbsp;</span>
+<br>
 <b> [Aplikasi Pembelajaran Ilmu Geografi - 2023 - Android & PC] <br>  Made with Animate CC, Action Script & AIR SDK. </b>
 ![Project 2](https://i.postimg.cc/nhgSQhyv/HOW-TO-landscape.jpg)
 <br> 
