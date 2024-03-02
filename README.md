@@ -3,8 +3,8 @@
 I'm passionate about Many Things and currently diving into the world of Web Programming & App Development using Animate CC.
 
 # Projects
-## Personal Static Website - 2020 - Website.<br>
-Made with HTML, BOOTSTRAP & JS.
+## Personal Static Website - 2020 - Website.
+## Made with HTML, BOOTSTRAP & JS.
 ![Project 1](https://i.postimg.cc/zGvjQfvV/personal-website.png)
 <br><br>
 Aplikasi Pembelajaran Ilmu Geografi - 2023.<br>
