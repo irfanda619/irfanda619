@@ -5,8 +5,8 @@ I'm passionate about Many Things and currently diving into the world of Web Prog
 # Projects
 
 ![Project 1](https://i.postimg.cc/jd16SrqG/Profil.png)
-Personal Static Website - 2020 - Website
-Made with HTML, BOOTSTRAP & JS
+Personal Static Website - 2020 - Website.<br>
+Made with HTML, BOOTSTRAP & JS.
 ![Project 2](https://i.postimg.cc/nhgSQhyv/HOW-TO-landscape.jpg)
 Aplikasi Pembelajaran Ilmu Geografi - 2023.
 Made with Animate CC, Action Script & AIR SDK.
