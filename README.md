@@ -6,16 +6,16 @@
 <b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b>
 ![Project 1](https://i.postimg.cc/zGvjQfvV/personal-website.png)
 <br>
-### [Aplikasi Pembelajaran Ilmu Geografi - 2023 - Android & PC] Made with Animate CC, Action Script & AIR SDK.
+<b> [Aplikasi Pembelajaran Ilmu Geografi - 2023 - Android & PC] <br>  Made with Animate CC, Action Script & AIR SDK. </b>
 ![Project 2](https://i.postimg.cc/nhgSQhyv/HOW-TO-landscape.jpg)
 <br>
-### [Gadget Article Static Website - 2020 - Website] Made with HTML, BOOTSTRAP & JS.
+<b> [Gadget Article Static Website - 2020 - Website] Made with HTML, BOOTSTRAP & JS. </b>
 ![Project 3](https://i.postimg.cc/2ycV0VR7/Vanzgadget.png)
 <br>
-### [Buku Ajar - 2023 - Android & PC] Made with Animate CC, Action Script & AIR SDK.
+<b> [Buku Ajar - 2023 - Android & PC] <br>  Made with Animate CC, Action Script & AIR SDK. </b>
 ![Project 4](https://i.postimg.cc/sD917PJr/kingslayer-2.png)
 <br>
-### [Account Saver - 2022 - PC] Made with JAVA.
+<b> [Account Saver - 2022 - PC] <br>  Made with JAVA. </b>
 ![Project 5](https://i.postimg.cc/2SGbRdqw/kingslayer.png)
 
 
