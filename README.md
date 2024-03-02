@@ -3,7 +3,8 @@
 ### I'm passionate about Many Things and currently diving into the world of Web Programming & App Development using Animate CC.
 
 # Projects
-<b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b>
+<b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b> 
+<br>
 <a href="https://www.example.com">[REVIEW]</a>
 ![Project 1](https://i.postimg.cc/zGvjQfvV/personal-website.png) 
 <br> 
