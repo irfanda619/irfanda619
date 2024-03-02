@@ -5,7 +5,6 @@
 # Projects
 <b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b> 
 <br>
-<a href="https://www.example.com">🌐</a>
 ![Project 1](https://i.postimg.cc/zGvjQfvV/personal-website.png) 
 <br> 
 <b> [Aplikasi Pembelajaran Ilmu Geografi - 2023 - Android & PC] <br>  Made with Animate CC, Action Script & AIR SDK. </b>
