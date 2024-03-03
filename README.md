@@ -1,6 +1,5 @@
 # Hi there, I'm @irfanda619 👋
-
-### I'm passionate about Many Things and currently diving into the world of Web Programming & App Development using Animate CC.
+<span style="font-size: 18px;">I'm passionate about Many Things and currently diving into the world of Web Programming & App Development using Animate CC.</span>
 
 # Projects 🗃️
 <b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b> 
