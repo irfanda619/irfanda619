@@ -1,4 +1,4 @@
-# Repository 🗃️
+## Recent Projects
 <b> [Personal Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. </b> 
 <br> 
 
