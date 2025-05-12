@@ -9,12 +9,10 @@
 <b> [Buku Ajar (GTA Reference) - 2023 - Android & Windows] <br>  Made with Animate CC, Action Script & AIR SDK. ![Buku Ajar](https://i.postimg.cc/9f35hjCS/68747470733a2f2f692e706f7374696d672e63632f7344393137504a722f6b696e67736c617965722d322e706e67.png)</b>
 <br> 
 
-<b> [Profile Static Website  - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. ![Profil Static Website](https://i.postimg.cc/HWFmqz71/68747470733a2f2f692e706f7374696d672e63632f7a47766a516676562f706572736f6e616c2d776562736974652e706e67.png)</b> 
+<b> [Profile Static Website - 2022 - Website] <br> Made with HTML, BOOTSTRAP & JS. ![Profil Static Website](https://i.postimg.cc/HWFmqz71/68747470733a2f2f692e706f7374696d672e63632f7a47766a516676562f706572736f6e616c2d776562736974652e706e67.png)</b> 
 <br> 
 
-<b> [Gadget Article Static Website - 2020 - Website] <br> Made with HTML, BOOTSTRAP & JS. ![Gadget Article Website](https://i.postimg.cc/VNTS1vdw/68747470733a2f2f692e706f7374696d672e63632f32796356305652372f56616e7a6761646765742e706e67.png)</b>
+<b> [Gadget Article Static Website - 2022 - Website] <br> Made with HTML, BOOTSTRAP & JS. ![Gadget Article Website](https://i.postimg.cc/VNTS1vdw/68747470733a2f2f692e706f7374696d672e63632f32796356305652372f56616e7a6761646765742e706e67.png)</b>
 <br> 
 
-
-
-<b> [Account Saver - 2022 - Windows] <br>  Made with JAVA. <br> ![Account Saver](https://i.postimg.cc/43nKrV4w/68747470733a2f2f692e706f7374696d672e63632f32534762526471772f6b696e67736c617965722e706e67.png)</b>
+<b> [Account Saver - 2021 - Windows] <br>  Made with JAVA. <br> ![Account Saver](https://i.postimg.cc/43nKrV4w/68747470733a2f2f692e706f7374696d672e63632f32534762526471772f6b696e67736c617965722e706e67.png)</b>
